@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popins', 'sans-serif';
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #3c5077;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
